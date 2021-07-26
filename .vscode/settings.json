@@ -1,0 +1,5 @@
+{
+    "prettier.resolveGlobalModules": true,
+    "prettier.requirePragma": true,
+    "prettier.requireConfig": true
+}

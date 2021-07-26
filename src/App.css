@@ -1,0 +1,63 @@
+* {
+    padding: 0%!important;
+    margin: 0%!important;
+}
+
+.App {
+    text-align: center;
+    padding: 0%;
+    margin: 0%;
+}
+
+.card {
+    text-align: center;
+    width: 300px!important;
+    margin: 20px!important;
+    padding: 20px!important;
+    overflow: auto;
+    background-color: teal;
+    color:rgb(219, 173, 72);
+}
+
+.list {
+    flex: 1;
+    flex-direction: row;
+    list-style-type: none;
+    text-align: center;
+    margin: 6%!important;
+}
+
+.Navbar {
+    background-color: #333333;
+    padding: 2%;
+}
+
+.Navbar ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #0a0a0a;
+    padding-right: 30%!important;
+    padding-top: 0.5%!important;
+    padding-bottom: 0.5%!important;
+}
+
+.Navbar ul li {
+    float: right;
+}
+
+.Navbar ul li a {
+    display: block;
+    color:rgb(196, 167, 7);
+    text-align: center;
+    text-decoration: none;
+    font-size: 20px;
+    padding: 12px!important;
+    padding-left: 30px!important;
+    padding-bottom: 3%!important;
+}
+
+.Navbar ul li a:hover {
+    background-color: #111111;
+}
